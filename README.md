@@ -1,6 +1,11 @@
 # Rebirth-Ex
 simple ML application using CreateML tool
 
+## I added just one test because the dataset is real (We made together for fun) 
 
-<gif-player src="Documentation/screenGif.gif" speed="0.5" play></gif-player>
-<gif-player src="Documentation/screenGif.gif" size="contain" prerender style="width:300px;height:200px"></gif-player>
+![mainScreen](Documentation/screenGif.gif)
+
+## Of course I did not add mlmodel
+
+![modelfile](Documentation/mlmodel.png)
+
